@@ -136,6 +136,7 @@ const config = {
         id: "blog",
         routeBasePath: "blog",
         path: "./blog",
+        postsPerPage: 2
 
       },
     ],
